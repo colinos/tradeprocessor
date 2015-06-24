@@ -1,8 +1,7 @@
 <?php
 
 //API Url
-//$url = 'http://localhost/tradeprocessor/messages.php';
-$url = 'http://www.bodconstruction.ie/colintemp/tradeprocessor/messages.php';
+$url = 'http://localhost/tradeprocessor/messages.php';
 
 //Initiate cURL.
 $ch = curl_init($url);
